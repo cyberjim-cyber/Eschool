@@ -1,0 +1,282 @@
+.logo{
+
+    width:180px;
+}
+.nav-link{
+
+    margin-right: 20px;color: black;
+}
+.sign-in-button{
+
+    background:#21B573;padding: 12px 28px;border-radius: 33px;text-decoration: none !important;color: white;
+
+ 
+}
+.learn-header{
+
+    font-size: 48px;margin: 20px 0px !important;
+}
+.color{
+
+    color:#21B573;
+}
+.get-started-button{
+
+    background:#21B573;padding: 12px 36px;border-radius: 33px;text-decoration: none !important;color: white;
+}
+.learning{
+
+    padding: 50px 50px ;
+}
+.learn-bg{
+
+    width: 554px;
+height: 346px;
+}
+.learn-des{
+
+    color:#FD511A;margin-bottom: 15px;
+}
+.lorem{
+
+    margin: 10px 0px 30px 0px;
+}
+.four-icon{
+
+    width: 66px;
+height: 85px;margin-bottom: 30px;
+}
+.four-col-section{
+
+    padding: 50px 0px;
+}
+.course{
+
+    padding: 60px auto;
+}
+.row h3{
+
+    width: 200px !important;margin: auto auto 20px auto;
+}
+.col-md-3{
+
+   width: 270px;height: 300px !important;
+}
+.two{
+
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+.man-image{
+    width:120px ;height: 120px;position: absolute;top:85px ;left:250px;
+}
+
+.testimonial{
+    padding: 60px 0px;position: relative;
+}
+.test-header{
+
+    width:219px;margin: auto auto auto 100px;
+}
+.test-description{
+
+    width:580px;margin: auto;margin: 60px auto auto 5px !important;
+}
+
+
+.contact{
+
+    padding: 60px 0px;background-color: black;color: white;
+}
+
+.footer-list li{
+
+    list-style: none;
+}
+
+.footer-list li a{
+
+    color: white;text-decoration: none;
+}
+.footer-description{
+
+    margin-left: 60px;
+}
+
+.contact h4{
+
+    margin-left: 35px;
+}
+
+.copyright{
+   width: 400px;margin:50px auto auto auto;
+}
+
+
+
+
+
+
+
+
+@media screen and (max-width:1024px){
+
+    .four-col-section{
+
+        margin-right: 0px;margin-left: 75px !important;
+    }
+
+    .col-md-3{
+
+        padding-right: 0px;
+    }
+    .learning{
+
+        padding:50px 100px 50px 0px;
+    }
+    .man-image{
+        position: absolute;top:85px ;left:210px;
+    }
+}
+
+
+
+
+@media screen and (max-width:768px){
+.learn-bg{
+
+    width:400px;
+}
+
+.course{
+
+    padding-left: 60px;
+}
+.card-deck{
+    padding-left: 50px !important;
+}
+.get-started-button{
+
+    padding:7px 15px;border-radius: 10px;
+}
+.color{
+
+    margin-left: 20px;
+}
+
+.col-md-4{
+
+    width:300px;
+}
+.test-description{
+    width: 470px;margin: auto;
+}
+
+.testimonial{
+
+    width: 768px;margin: auto;position: relative;
+}
+.four-col-section{
+
+  margin-left: 40px !important;
+}
+.img-div{
+
+    width:250px;
+}
+.man-image{
+
+    width:100px;margin: auto;position: absolute;left:100px !important;
+}
+.col-md-8{
+    width:430px !important;height: auto !important;margin: auto !important;
+}
+
+
+
+}
+
+
+@media screen and (min-width:425px){
+.col-md-4{
+
+    width:420px !important;display: block !important;height: 250px !important;
+}
+.col-md-8{
+    width:420px !important;display: block !important;margin-left: 0px !important;
+}
+.test-description{
+
+    width:415px;margin: auto;
+}
+.man-image{
+
+    width: 100px;
+    margin: auto;
+    position: absolute;
+    left: 140px !important;
+}
+.footer-description{
+
+    margin-left: 40px !important;
+}
+
+.learning{
+
+    padding-left: 50px !important;
+}
+
+.learn-bg{
+
+    width: 330px;margin-top:40px  ;
+}
+
+
+.learn-header{
+    text-align: justify;
+}
+
+.col-md-3{
+
+    width: 350px !important;margin: auto;
+}
+
+.four-icon{
+
+    width: 130px;margin-top: 10px;height: auto;
+}
+
+.col-md-3{
+
+    border: 1px solid gray;margin-top: 10px;
+}
+.col-md-3 h4{
+
+    font-size: 30px;
+}
+.col-md-3 p{
+    font-size: 20px;
+}
+
+.card-padding{
+    padding-right: 30px;
+}
+
+.four-col-section{
+
+    padding-right: 30px;
+}
+
+
+.col-md-2{
+
+    width:210px !important;
+}
+
+
+
+
+
+
+
+}
